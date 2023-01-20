@@ -8,5 +8,6 @@
 
 ![ScreenShot](https://github.com/yuriynemchikov/GB-Final-Work/blob/gb1_2/imgs/Screen%20Shot%202023-01-18%20at%2012.26.48.png)
 ![ScreenShot2](https://github.com/yuriynemchikov/GB-Final-Work/blob/gb1_2/imgs/Screen%20Shot%202023-01-18%20at%2012.27.28.png)
-![ScreenShot3]()
+![ScreenShot3](https://github.com/yuriynemchikov/GB-Final-Work/blob/gb1_3/imgs/Screen%20Shot%202023-01-20%20at%2017.51.04.png)
+![ScreenShot4](https://github.com/yuriynemchikov/GB-Final-Work/blob/gb1_3/imgs/Screen%20Shot%202023-01-20%20at%2017.51.14.png)
 
