@@ -11,3 +11,6 @@
 ![ScreenShot3](https://github.com/yuriynemchikov/GB-Final-Work/blob/gb1_3/imgs/Screen%20Shot%202023-01-20%20at%2017.51.04.png)
 ![ScreenShot4](https://github.com/yuriynemchikov/GB-Final-Work/blob/gb1_3/imgs/Screen%20Shot%202023-01-20%20at%2017.51.14.png)
 
+6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы).
+
+![Relationship](https://github.com/yuriynemchikov/GB-Final-Work/blob/gb1_4/Relationship%20Diagram.drawio.png)
