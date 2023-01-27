@@ -1,0 +1,4 @@
+7. В подключенном MySQL репозитории создать базу данных “Друзья человека”
+
+CREATE DATABASE human_friends;
+USE human_friens;
